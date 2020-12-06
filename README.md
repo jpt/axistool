@@ -1,6 +1,6 @@
 # axistool
 
-axistool is a tool for axis interpolation and building avar tables inside glyphsapp.
+axistool is a tool for axis interpolation and building avar tables ("axis mapping") inside glyphsapp.
 
 # acknowledgements
 
