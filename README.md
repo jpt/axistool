@@ -13,4 +13,4 @@ axistool is licensed under the SIL open font license (OFL); see the LICENSE file
 # TODO
 
 - actually make the UI lmao
-- get this working using glyphs3 api (this runs in glyphs3 right now, but applying the axes should consider the API)
+- get this working using glyphs3 api (this runs in glyphs3 right now, but applying the axes should consider the API; I have a bunch of old glyphs2 scripts I need to port)
