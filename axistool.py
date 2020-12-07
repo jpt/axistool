@@ -1,14 +1,14 @@
 # import vanilla todo - axis mappings etc built into glyphs
 from math import exp, log
 
-# python 3
+# python 3 + 2
 
 try:
     xrange
 except NameError:
     xrange = range
 
-# why is there no signum in math, what is this perl
+# why we have to implement sign in python https://bugs.python.org/msg59137
 
 def signum(x):
 	return (x > 0) - (x < 0)
