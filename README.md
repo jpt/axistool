@@ -8,10 +8,10 @@ axistool ports linus romer's [stepinterpolation](https://github.com/linusromer/s
 
 # license
 
-axistool is licensed under the SIL open font license (OFL) (made possible by stepinterpolation's license). see the LICENSE file for more information.
+axistool is licensed under the SIL open font license (OFL); see the LICENSE file for more information.
 
 # TODO
 
 - actually make the UI lmao
 - get this working using glyphs3 api (this runs in glyphs3 right now, but applying the axes should consider the API; I have a bunch of old glyphs2 scripts I need to port)
-- connect the interpolation to axis mapping in glyphs (similarly have accomplished this in glyphs2 already but want to do "right way" within g3; coming soon)
+- connect the interpolation to axis mapping in glyphs (similarly have accomplished this in glyphs2 already but want to do "right way" within g3 - coming soon)
