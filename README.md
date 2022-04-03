@@ -13,5 +13,5 @@ axistool is licensed under the SIL open font license (OFL); see the LICENSE file
 # TODO
 
 - actually make the UI lol. have the old family interpolation script for inspiration.
-- get this working, using glyphs3 api to taget weight and optical axes
+- get this working, using glyphs3 api to taget weight and optical axes (which just mean "any" axes)
 - connect the interpolation to axis mapping in glyphs
